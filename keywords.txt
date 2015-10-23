@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map for Knobs12 Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+knobs12	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+systemInit	KEYWORD2
+readAllKnobs	KEYWORD2
+changeLedBrightness	KEYWORD2
+updateLEDs	KEYWORD2
+setAllLedsOn	KEYWORD2
+resetLedValues	KEYWORD2
+checkButtonState	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
